@@ -3,6 +3,10 @@ Pwc Power BI Virtual Work - Task 1
 ### **Problem Statement:**
 In this project, create a dashboard in power bi for the call centre manager that reflects all relevant Key performance indicators (Kpi) and metrics in datasets.
 
+### Datasource :
+Dataset used for this task was presented by Pwc.
+* Dataset: Call centre trends
+
 ### **Possible kpi indicators:**
 * Overall customer satisfaction
 * Overall calls answered/abandoned
